@@ -3,6 +3,7 @@ api_keys.py
 WeatherPy.ipynb
 VacationPy.ipynb
 
+.DS_Store
 # Byte-compiled / optimized / DLL files
 __pycache__/
 
